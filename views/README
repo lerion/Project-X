@@ -1,0 +1,11 @@
+Views werden hier hinein kommen.
+
+Bitte beachten, dass der Dateiname identisch mit dem Dateinamen im 
+Browserpfad ist:
+
+<domain>:<port>/<filename>
+
+führt zu 
+<project-path>/views/<filename>.html
+
+Immer mit HTML-Endung, wenn die View aufgerufen werden soll.
